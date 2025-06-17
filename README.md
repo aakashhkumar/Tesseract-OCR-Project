@@ -61,6 +61,15 @@ python ocr_extractor.py
 
 ---
 
+## 💡 How PyTesseract Works
+PyTesseract is a Python wrapper for Google’s Tesseract-OCR engine. It processes the image in the following steps:
+* Converts the image to black and white (for contrast).
+* Detects text lines and segments characters.
+* Matches characters using its trained data.
+* Reconstructs the extracted text.
+
+---
+
 ## 📷 Example Output
 
 **Input Image:** `Sample_Image.png`
