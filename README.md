@@ -26,7 +26,7 @@ pip install pytesseract pillow
 
 Make sure you have **Tesseract-OCR** installed on your system.
 
-* 📥 [Download Tesseract here](https://github.com/tesseract-ocr/tesseract)
+* 📥 [Download Tesseract here](https://github.com/UB-Mannheim/tesseract/wiki)
 
 For Windows users:
 
