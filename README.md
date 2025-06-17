@@ -84,8 +84,8 @@ This is an example of text extracted from the image.
 ## 🤝 Connect with Me
 
 **Developer:** Akash Kumar
-**GitHub:** \[[Your GitHub Profile Link]](https://github.com/aakashhkumar)
-**LinkedIn:** \[[Your LinkedIn Profile Link]](https://www.linkedin.com/in/aakashhkumar/)
+**GitHub:** \[(https://github.com/aakashhkumar)]
+**LinkedIn:** \[(https://www.linkedin.com/in/aakashhkumar/)]
 
 ---
 
