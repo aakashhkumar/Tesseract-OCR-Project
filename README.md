@@ -80,12 +80,3 @@ This is an example of text extracted from the image.
 * Build a simple GUI for user-friendly operation.
 
 ---
-
-## 🤝 Connect with Me
-
-**Developer:** Akash Kumar
-**GitHub:** \[(https://github.com/aakashhkumar)]
-**LinkedIn:** \[(https://www.linkedin.com/in/aakashhkumar/)]
-
----
-
