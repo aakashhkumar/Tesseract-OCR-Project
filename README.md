@@ -83,16 +83,9 @@ This is an example of text extracted from the image.
 
 ## 🤝 Connect with Me
 
-**Developer:** Shushant Kumar
-**GitHub:** \[Your GitHub Profile Link]
-**LinkedIn:** \[Your LinkedIn Profile Link]
+**Developer:** Akash Kumar
+**GitHub:** \[[Your GitHub Profile Link]](https://github.com/aakashhkumar)
+**LinkedIn:** \[[Your LinkedIn Profile Link]](https://www.linkedin.com/in/aakashhkumar/)
 
 ---
 
-If you’d like, I can help you add:
-
-* 📸 Image previews in the README
-* ✅ GitHub badges (build passing, license, etc.)
-* 🖥️ A web version using Flask or Streamlit
-
-Just let me know!
