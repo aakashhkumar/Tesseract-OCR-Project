@@ -67,7 +67,8 @@ PyTesseract is a Python wrapper for Google’s Tesseract-OCR engine. It processe
 * Detects text lines and segments characters.
 * Matches characters using its trained data.
 * Reconstructs the extracted text.
-![Alt text]([image-path](https://github.com/aakashhkumar/Tesseract-OCR-Project/blob/5431026a487f553f922c1b0a613a117c91686c2e/How_Tesseract_Works.jpeg))
+![How Tesseract Works](https://github.com/aakashhkumar/Tesseract-OCR-Project/blob/5431026a487f553f922c1b0a613a117c91686c2e/How_Tesseract_Works.jpeg?raw=true)
+
 ---
 
 ## 📷 Example Output
